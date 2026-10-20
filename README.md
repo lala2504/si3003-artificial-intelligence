@@ -70,7 +70,11 @@ Every project has **explicit, verifiable correctness criteria**: public test cas
 
 ### Lecture 09 - Transformes y NLP
 - `slides_pdf/clase9.pdf` — Convolutional Neural Networks. [Ver clase &#8594;](https://eafit-ia.github.io/si3003-artificial-intelligence/slides/?p=clase9.md)
-- [notebooks](notebooks/lecture9)
+- [notebooks](notebooks/Lecture9)
+
+### Lecture 10 - RAG
+- `slides_pdf/clase10.pdf` — Convolutional Neural Networks. [Ver clase &#8594;](https://eafit-ia.github.io/si3003-artificial-intelligence/slides/?p=clase10.md)
+- [notebooks](notebooks/Lecture10)
 
 
 ## Resources
