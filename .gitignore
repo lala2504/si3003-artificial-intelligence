@@ -21,3 +21,7 @@ runs/
 Thumbs.db
 
 .DS_Store
+
+# Entornos y variables locales
+.env
+.venv*/
